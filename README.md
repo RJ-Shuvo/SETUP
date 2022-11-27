@@ -21,12 +21,12 @@ CONTACT WITH <a href="https://github.com/RJ-Shuvo"><b>RJ-Shuvo </a> </br><br>
  pkg install python 
  pkg install python2 
  pkg install git 
- git clone 
+ git clone https://github.com/RJ-Shuvo/SETUP
 ```
 #### RUN SCRIPT
 ```python
- cd 
- bash 
+ cd SETUP
+ bash RJ-SETUP.sh
 ```
 
 
